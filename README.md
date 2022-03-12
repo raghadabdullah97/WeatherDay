@@ -17,10 +17,12 @@
 
 
 # User Flow :
+![user flow](https://user-images.githubusercontent.com/92260336/158039182-852b8fc3-f514-42ce-9555-1e083ec975e2.jpeg)
 
 
 
 # class diagram :
+![class di](https://user-images.githubusercontent.com/92260336/158039178-bcda4084-694c-4cba-9842-31893679086a.jpeg)
 
 
 
